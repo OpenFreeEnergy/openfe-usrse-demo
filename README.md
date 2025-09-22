@@ -20,3 +20,5 @@ conda activate openfe-demo
 ```
 
 ### running with google colab
+
+[Click here to run in google colab](https://colab.research.google.com/github/OpenFreeEnergy/openfe-usrse-demo/blob/add_notebook/src/openfe_demo.ipynb)
