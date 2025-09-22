@@ -1,5 +1,7 @@
 # OpenFE Demo: USRSE 2025
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenFreeEnergy/openfe-usrse-demo/blob/add_notebook/src/openfe_demo.ipynb)
+
 ## Install 
 
 
@@ -18,7 +20,3 @@ conda activate conda-lock
 conda-lock install -n openfe-demo openfe-conda-lock.yml
 conda activate openfe-demo
 ```
-
-### running with google colab
-
-[Click here to run in google colab](https://colab.research.google.com/github/OpenFreeEnergy/openfe-usrse-demo/blob/add_notebook/src/openfe_demo.ipynb)
