@@ -1,2 +1,2 @@
-# openfe demo USRSE 2025
+# OpenFE Demo: USRSE 2025
 
