@@ -1,0 +1,4 @@
+network:
+  method: generate_radial_network 
+  settings:
+    central_ligand: lig_jmc_28
