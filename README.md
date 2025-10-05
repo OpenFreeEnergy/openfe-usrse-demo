@@ -2,21 +2,22 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenFreeEnergy/openfe-usrse-demo/blob/main/src/openfe_demo.ipynb)
 
-You can find the demo notebook in `openfe_demo.ipynb`, or by clicking on the "Open in Colab" button above.
+You can find the demo notebook in `src/openfe_demo.ipynb`, or you can run in your browser by clicking on the "Open in Colab" button above.
 
-## Install 
-###  with `micromamba`
+See the [openfe git repo](https://github.com/OpenFreeEnergy/openfe) and [documentation](https://docs.openfree.energy/en/latest/) to learn more!
 
-```bash
-micromamba create -n openfe --file openfe-conda-lock.yml
-micromamba activate openfe
-```
+## Installing openfe locally 
 
-### with `conda`
+To run the notebook locally (i.e. not in Colab), you'll need to install **openfe**:
+
+Installing from conda-forge is simplest, and you can use `mamba` or `conda`:
 
 ```bash
-conda create -n conda-lock -c conda-lock
-conda activate conda-lock
-conda-lock install -n openfe-demo openfe-conda-lock.yml
-conda activate openfe-demo
+
+mamba create -n openfe openfe=1.6.1
+mambda activate openfe
+
 ```
+
+then open the demo with `jupyter notebook src/openfe_demo.ipynb`.
+
