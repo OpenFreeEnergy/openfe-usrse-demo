@@ -15,7 +15,7 @@ Installing from conda-forge is simplest, and you can use `mamba` or `conda`:
 ```bash
 
 mamba create -n openfe openfe=1.6.1
-mambda activate openfe
+mamba activate openfe
 
 ```
 
