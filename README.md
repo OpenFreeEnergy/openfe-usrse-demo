@@ -6,7 +6,7 @@ You can find the demo notebook in `src/openfe_demo.ipynb`, or you can run in you
 
 See the [openfe git repo](https://github.com/OpenFreeEnergy/openfe) and [documentation](https://docs.openfree.energy/en/latest/) to learn more!
 
-## Installing openfe locally 
+## Installing openfe locally (recommended)
 
 To run the notebook locally (i.e. not in Colab), you'll need to install **openfe**:
 
